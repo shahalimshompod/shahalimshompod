@@ -84,6 +84,8 @@
 </div>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahalimshompod&show_icons=true&locale=en" alt="shahalimshompod" /></p>
+<div align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahalimshompod&show_icons=true&locale=en" alt="shahalimshompod" /></p>
+</div>
 
 ###
