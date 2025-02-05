@@ -56,6 +56,6 @@
   </a>
 </div>
 
-<div style="text-align: center; margin-top: 30px;">
+<div style="text-align: center; margin-top: 100px;">
   <img style="width: 80%;" src="https://github-readme-stats.vercel.app/api?username=shahalimshompod&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
