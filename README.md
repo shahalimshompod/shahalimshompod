@@ -76,7 +76,7 @@
 
 ###
 
-<ul align="center" style="list-style-type: none; padding: 0; font-size: 18px;">
+<ul style="list-style-type: none; padding: 0; font-size: 18px;">
   <li>🚀 Currently learning <strong>Three.js</strong> for 3D web development.</li>
   <li>🔍 Exploring <strong>Next.js</strong> to enhance full-stack capabilities.</li>
   <li>💻 Working on multiple <strong>web development projects</strong>.</li>
