@@ -8,13 +8,19 @@
 
 ###
 
+---
+
 <h4 align="center">Hi there! I’m a passionate MERN Stack Developer who thrives on building dynamic, user-friendly, and scalable web applications. With a keen eye for clean code and modern UI/UX, I specialize in transforming ideas into functional digital experiences.<br><br>💻 Tech Stack: JavaScript, React, Node.js, Express, MongoDB<br>🎯 Focus Areas: Performance optimization, API integration, and problem-solving<br>🚀 Goal: Delivering high-quality, efficient, and maintainable web solutions<br><br>Let’s connect and create something amazing! 🌟</h4>
 
 ###
 
+---
+
 <h1 align="center">👨‍💻 I code with:</h1>
 
 ###
+
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -38,6 +44,8 @@
 
 ###
 
+---
+
 <h1 align="center">💻 Frontend Skills</h1>
 
 ###
@@ -56,6 +64,8 @@
 
 ###
 
+---
+
 <h1 align="center">⚙️ Backend skills</h1>
 
 ###
@@ -70,6 +80,8 @@
 
 ###
 
+---
+
 ###
 
 <h1 align="center">📝 Current Activities:</h1>
@@ -83,6 +95,9 @@
   <li>🛠 Improving problem-solving skills with <strong>JavaScript & algorithms</strong>.</li>
   <li>🎯 Enhancing UI/UX knowledge for better user experiences.</li>
 </ul>
+
+
+---
 
 
 <h1 align="center">🔍 Find Me On:</h1>
@@ -100,6 +115,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+---
+
 
 <h1 align="center">📊 Stats and progress</h1>
 
