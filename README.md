@@ -10,7 +10,7 @@ Hi! I'm Shah Alim Shompod, a passionate Full Stack Developer with a strong inter
 ### 🌟 Current Activities
 - 🔥 Exploring **Next.js** and **TypeScript**.
 - 🌍 Building a **News Portal Website**.
-- 📚 Learning **Python, Threejs** for API development.
+- 📚 Learning **Python, Threejs** for Ai and Animation developments.
 - 💡 Contributing to open-source projects.
 
 ---
