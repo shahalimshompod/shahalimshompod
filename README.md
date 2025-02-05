@@ -1,3 +1,5 @@
+<img src="https://ibb.co.com/sdFvy4DZ"/>
+
 <h1 align="center">Hi 👋, I'm Shah Alim Shompod</h1>
 <h3 align="center">🚀 MERN Stack Developer | Crafting Scalable Web Apps | Passionate About Code & Innovation</h3>
 
