@@ -124,7 +124,7 @@
 
 # Hi there, I'm Shah Alim Shompod! 👋
 
-![Banner](https://your-banner-image-link.com)
+![Banner](https://i.ibb.co.com/4njZPLDH/Web-Developer.png)
 
 ## 🚀 Full Stack Developer | Open Source Contributor
 
@@ -133,8 +133,8 @@ Hi! I'm Shah Alim Shompod, a passionate Full Stack Developer with a strong inter
 
 ### 🌟 Current Activities
 - 🔥 Exploring **Next.js** and **TypeScript**.
-- 🌍 Building a **Tourism Website**.
-- 📚 Learning **GraphQL** for API development.
+- 🌍 Building a **News Portal Website**.
+- 📚 Learning **Python, Threejs** for API development.
 - 💡 Contributing to open-source projects.
 
 ---
@@ -155,7 +155,6 @@ Hi! I'm Shah Alim Shompod, a passionate Full Stack Developer with a strong inter
 
 ### 🛠 DevOps & Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -168,16 +167,9 @@ Hi! I'm Shah Alim Shompod, a passionate Full Stack Developer with a strong inter
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahalimsompod)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AlimSompod)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahalimshompod)
-
----
-
-## 📌 Pinned Repositories
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=shahalimshompod&repo=repo-name-1&theme=tokyonight)](https://github.com/shahalimshompod/repo-name-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=shahalimshompod&repo=repo-name-2&theme=tokyonight)](https://github.com/shahalimshompod/repo-name-2)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=shahalimshompod&repo=repo-name-3&theme=tokyonight)](https://github.com/shahalimshompod/repo-name-3)
 
 ---
 
