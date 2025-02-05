@@ -72,7 +72,7 @@
 
 ###
 
-<h1 align="center">Current Activities:</h1>
+<h1 align="center">📝 Current Activities:</h1>
 
 ###
 
@@ -101,7 +101,7 @@
   </a>
 </div>
 
-<h1 align="center">Stats and progress</h1>
+<h1 align="center">📊 Stats and progress</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahalimshompod&show_icons=true&locale=en&layout=compact" alt="shahalimshompod" /></p>
 
