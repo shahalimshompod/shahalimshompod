@@ -2,10 +2,10 @@
 
 ![Banner](https://i.ibb.co.com/4njZPLDH/Web-Developer.png)
 
-## 🚀 Full Stack Developer | Open Source Contributor
+## 🚀 Front-end Web Developer | Open Source Contributor
 
 ### About Me
-Hi! I'm Shah Alim Shompod, a passionate Full Stack Developer with a strong interest in building scalable web applications. I love working with modern technologies and contributing to open-source projects. Always eager to learn and explore new frameworks.
+Hi! I'm Shah Alim Shompod, a passionate Front-end Web Developer with a strong interest in building scalable web applications based in Pabna, Bangladesh. I love working with modern technologies and contributing to open-source projects. Always eager to learn and explore new frameworks. Fun fact is - I judge a book by its cover.
 
 ### 🌟 Current Activities
 - 🔥 Exploring **Next.js** and **TypeScript**.
