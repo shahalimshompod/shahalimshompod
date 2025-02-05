@@ -12,9 +12,9 @@
 
 ###
 
----
 
 <h1 align="center">👨‍💻 I code with:</h1>
+---
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h1 align="center">💻 Frontend Skills</h1>
+<h5 align="center">💻 Frontend Skills</h5>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h1 align="center">⚙️ Backend skills</h1>
+<h5 align="center">⚙️ Backend skills</h5>
 
 ###
 
