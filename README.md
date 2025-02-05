@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">About Me:</h1>
+<h1 align="center">💬 About Me:</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">I code with:</h1>
+<h1 align="center">👨‍💻 I code with:</h1>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h1 align="center">Frontend Skills</h1>
+<h1 align="center">💻 Frontend Skills</h1>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h1 align="center">Backend skills</h1>
+<h1 align="center">⚙️ Backend skills</h1>
 
 ###
 
@@ -85,7 +85,7 @@
 </ul>
 
 
-<h1 align="center">Find Me On:</h1>
+<h1 align="center">🔍 Find Me On:</h1>
 
 ###
 
